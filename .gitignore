@@ -4,5 +4,7 @@ SupersecretFolder
 DoNotDisclose.txt
 
 #This is a comment
-#this * is a wild card, selects all elements with ...
+#this * is a wild card, selects all elements with ..., lets say .ODT (libreoffice)
+#example:
+#*.odt
 
